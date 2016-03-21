@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberOfPeopleArray">
+        <item>"Número de Pessoas"</item>
+        <item>"2  Pessoas"</item>
+        <item>"3  Pessoas"</item>
+        <item>"4  Pessoas"</item>
+        <item>"5  Pessoas"</item>
+        <item>"6  Pessoas"</item>
+        <item>"7  Pessoas"</item>
+        <item>"8  Pessoas"</item>
+        <item>"9  Pessoas"</item>
+        <item>"10 Pessoas"</item>
+        <item>"11 Pessoas"</item>
+        <item>"12 Pessoas"</item>
+        <item>"13 Pessoas"</item>
+        <item>"14 Pessoas"</item>
+        <item>"15 Pessoas"</item>
+        <item>"16 Pessoas"</item>
+        <item>"17 Pessoas"</item>
+        <item>"18 Pessoas"</item>
+        <item>"19 Pessoas"</item>
+        <item>"20 Pessoas"</item>
+        <item>"Inserir valor"</item>
+
+
+    </string-array>
+</resources>

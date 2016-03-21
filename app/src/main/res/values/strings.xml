@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BillShare</string>
+    <string name="action_settings">Settings</string>
+    <string name="ErrorWrongFieldValue">Este campo deve possuir valor maior que zero</string>
+</resources>
